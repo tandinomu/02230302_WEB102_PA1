@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Nuttella",
+    "description": "Fooding",
+    "price": 90,
+    "dateOfManufacture": "2024-05-15"
+  },
+  {
+    "id": "2",
+    "name": "Eye-liner",
+    "description": "Make-up",
+    "price": 180,
+    "dateOfManufacture": "2024-05-15"
+  },
+  {
+    "id": "3",
+    "name": "snail-essence serum",
+    "description": "skin-caring",
+    "price": 1500,
+    "dateOfManufacture": "2024-05-15"
+  },
+  {
+    "id": "4",
+    "name": "Pencil",
+    "description": "Stationary",
+    "price": 20,
+    "dateOfManufacture": "2024-05-15"
+  }
+]
